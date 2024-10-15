@@ -5,7 +5,7 @@ This project is centered on analyzing athletes' performance data, examining the 
 
 ## 🎯 Objectives
 - **📈 Visualization of Athlete Participation by Sport**: Visualize the number of athletes participating in each sport.
-- **🥇 Country Medal Winners**: Visualize the countries that won medals in different events.
+- **🥇 Country Medal Winners**: Visualize the countries that won medals in different sports/season.
 - **🏆 Top Medal-Winning Countries**: Identify and analyze the countries with the highest medal counts.
 - **👩‍🦰👨‍🦰 Male vs Female Analysis**: Compare the performance of male and female athletes across various sports.
 - **🧑‍🤝‍🧑 Age vs Medal Count Analysis**: Examine the relationship between age and medal counts across different sports.
@@ -28,14 +28,12 @@ The project utilizes the following Python libraries:
 - **📊 Pandas**: For data manipulation and analysis.
 - **🔢 NumPy**: For numerical computations.
 - **📉 Matplotlib** & **📊 Seaborn**: For creating visualizations and data plots.
-- **🤖 Scikit-learn**: For machine learning tasks, particularly Linear Regression modeling.
 - **💻 Jupyter Notebook**: For interactive coding and exploratory data analysis.
 
 ## 🔍 Key Results & Insights
 - **Age and Performance**: Older athletes tend to excel in sports like Equestrian and Sailing, whereas younger athletes dominate in events such as Gymnastics and Swimming.
 - **Country Performance**: Certain countries show consistent success in Winter sports, while others are dominant in Summer sports.
 - **Impact of Physical Attributes**: A correlation between physical characteristics (height and weight) and athletic success is observed in sports like Basketball and Rowing.
-- **Win Rate**: Countries with higher GDPs generally secure more medals, though some lower-GDP countries also perform remarkably well, indicating other contributing factors.
 
 ## 🚀 Conclusion
 This project provides valuable insights into the factors influencing athletic success at the Olympic Games. By analyzing demographic, physical, and performance data, we gain a better understanding of how age, height, weight, and nationality contribute to medal outcomes.
